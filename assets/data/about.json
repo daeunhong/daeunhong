@@ -1,43 +1,26 @@
 {
-  "name": "Jane Doe",
+  "name": "Daeun Hong",
   "tagline": "Researcher, educator, and designer",
   "typedItems": [
     "Educator",
     "Researcher",
-    "Designer",
-    "Advocate"
+    "Designer"
   ],
   "text": "This is my bio where I describe my current role, future goals, and research interests.",
   "roles": [
     {
-      "role": "Associate Director",
-      "institution": "SUNY Cortland"
+      "role": "Greaduate Research Assistant",
+      "institution": "Indiana University"
     },
     {
-      "role": "Job Title",
-      "institution": "Company Name"
-    },
-    {
-      "role": "Job Title",
-      "institution": "Company Name"
-    },
-    {
-      "role": "Job Title",
-      "institution": "Company Name"
-    },
-    {
-      "role": "Job Title",
-      "institution": "Company Name"
+      "role": "Associate Instructor",
+      "institution": "Indiana University"
     }
   ],
   "contacts": [
     {
-      "email": "academic@example.edu",
+      "email": "dh37@iu.edu",
       "type": "academic"
-    },
-    {
-      "email": "industry@example.com",
-      "type": "industry"
     }
   ],
   "social": {
